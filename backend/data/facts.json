@@ -1,0 +1,21 @@
+{
+  "full_name": "Don Burdette",
+  "name": "Don",
+  "current_role": "Principal Engineer",
+  "location": "San Jose, CA",
+  "email": "donjburdette@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/donburdette/",
+  "specialties": [
+    "Physics",
+    "Python",
+    "AI workflow optimization"
+  ],
+  "years_experience": 24,
+  "education": [
+    {
+      "degree": "PhD, Physics",
+      "institution": "The Ohio State University",
+      "year": "2010"
+    }
+  ]
+}

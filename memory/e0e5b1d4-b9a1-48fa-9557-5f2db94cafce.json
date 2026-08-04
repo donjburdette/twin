@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hi there",
+    "timestamp": "2026-08-04T08:53:23.886486"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Glad you stopped by. I\u2019m Don Burdette, though I usually go by None here. How can I assist you today? Are you interested in my work in advanced test technology, optical systems, or perhaps AI workflow optimization?",
+    "timestamp": "2026-08-04T08:53:23.886498"
+  }
+]
